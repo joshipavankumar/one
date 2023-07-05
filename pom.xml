@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://52.3.250.161:8081/repository/repo-1/</url>
+		    <url>http://54.89.45.59:8081/repository/pavan-releases/</url>
 		</repository>
   	</distributionManagement>
 	
